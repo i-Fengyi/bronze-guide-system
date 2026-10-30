@@ -69,8 +69,6 @@
 > - `data/exhibit_gallery/{01_xxx,02_xxx,...}/` — 每件文物 20 张多视角图片
 > - `data/exhibit_gallery_split.json` — 图库参考图/测试图划分（已包含）
 
-旧版 `data/images/`、`data/_obsolete_*` 已废弃。
-
 ## 当前功能范围
 
 - 上传图片或拍摄摄像头单帧。
