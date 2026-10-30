@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01_houmuwu_ding", "name": "后母戊鼎", "entity_type": "exhibit", "period": "商代后期", "category": "青铜礼器·方鼎", "vessel_type": "ding",
+    "description": "后母戊鼎又称后母戊大方鼎，是商代后期大型青铜礼器。器内壁铸有“后母戊”三字铭文，通常被解释为商王为祭祀母辈“戊”而铸。国博资料将其称为目前已知中国古代最重的青铜器，采用范铸法制作，体现了商代晚期高水平的青铜铸造能力。",
+    "dimensions": "高133厘米，口长112厘米、口宽79.2厘米，重832.84千克", "keywords": ["后母戊鼎", "司母戊鼎", "方鼎", "商代", "青铜铸造", "铭文"], "gallery_dir": "01_houmuwu_ding",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_166813.shtml", "source_name": "中国国家博物馆：后母戊鼎", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "02_zilong_ding", "name": "子龙鼎", "entity_type": "exhibit", "period": "商代晚期", "category": "青铜礼器·圆鼎", "vessel_type": "ding",
+    "description": "子龙鼎为商代大型圆鼎，器内壁近口沿处铸有“子龙”二字铭文，因此得名。器物体量较大，立耳、深腹、三足，纹饰布局庄重。其铭文、形制与铸造工艺为研究商代晚期青铜器和族氏文化提供了重要材料。",
+    "dimensions": "高103厘米，口径80厘米，重230千克", "keywords": ["子龙鼎", "圆鼎", "商代", "子龙铭文", "青铜礼器"], "gallery_dir": "02_zilong_ding",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_28609.shtml", "source_name": "中国国家博物馆：子龙鼎", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "03_siyang_fangzun", "name": "四羊方尊", "entity_type": "exhibit", "period": "商代晚期", "category": "青铜酒器·方尊", "vessel_type": "zun",
+    "description": "四羊方尊是商代晚期青铜酒器。器物为方形尊，四角各塑一只卷角羊，肩部和腹部装饰多组动物纹样。整器将圆雕、浮雕和线刻结合在复杂器形中，体现了高超的范铸与纹饰组织能力。",
+    "dimensions": "高58.3厘米，口边长52.4厘米，重34.5千克", "keywords": ["四羊方尊", "方尊", "羊纹", "商代", "青铜酒器"], "gallery_dir": "03_siyang_fangzun",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_166772.shtml", "source_name": "中国国家博物馆：四羊方尊", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "04_fuhao_xiaozun", "name": "妇好鸮尊", "entity_type": "exhibit", "period": "商代晚期，武丁时期", "category": "青铜酒器·鸟兽形尊", "vessel_type": "zun",
+    "description": "妇好鸮尊出土于河南安阳殷墟妇好墓，整体塑成昂首站立的鸮形，器盖与器身结合成完整鸟形。器内铸有“妇好”铭文，是研究商代王室成员妇好、殷墟礼制和青铜造型艺术的重要器物。",
+    "dimensions": "高45.9厘米", "keywords": ["妇好鸮尊", "妇好墓", "鸮尊", "武丁", "殷墟", "妇好铭文"], "gallery_dir": "04_fuhao_xiaozun",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_59596.shtml", "source_name": "中国国家博物馆：妇好鸮尊", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "05_dayu_ding", "name": "大盂鼎", "entity_type": "exhibit", "period": "西周早期，康王时期", "category": "青铜礼器·圆鼎", "vessel_type": "ding",
+    "description": "大盂鼎是西周早期重要青铜礼器，器内铸有长篇铭文，内容涉及周康王对贵族盂的册命、赏赐以及对殷商亡国原因的告诫。铭文保存了西周早期政治制度、礼制和历史观念的重要信息。",
+    "dimensions": "高约102厘米，重153.5千克", "keywords": ["大盂鼎", "西周", "康王", "册命", "青铜铭文", "圆鼎"], "gallery_dir": "05_dayu_ding",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_166821.shtml", "source_name": "中国国家博物馆：大盂鼎", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "06_li_gui", "name": "利簋", "entity_type": "exhibit", "period": "西周早期，武王时期", "category": "青铜食器·簋", "vessel_type": "gui",
+    "description": "利簋是西周早期青铜食器，器内铭文记载了周武王征商和甲子日的重要事件，并记录器主“利”受到赏赐后铸器纪念。它是研究武王克商年代和西周初期历史的重要实物资料。",
+    "dimensions": "高28厘米，口径22厘米", "keywords": ["利簋", "武王克商", "西周", "甲子日", "青铜铭文", "簋"], "gallery_dir": "06_li_gui",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_166803.shtml", "source_name": "中国国家博物馆：利簋", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "07_kanghou_jue", "name": "康侯爵", "entity_type": "exhibit", "period": "西周早期", "category": "青铜酒器·爵", "vessel_type": "jue",
+    "description": "康侯爵是西周早期青铜酒器，1986年出土于北京房山琉璃河燕国墓地1193号墓。器物前有流、后有尾，口沿设柱，下承三足，鋬内铸有“康侯”铭文。该器为研究西周早期燕国封建、礼制和青铜器铭文提供了重要实物资料。",
+    "dimensions": "高24厘米，流至尾长31厘米", "keywords": ["康侯爵", "西周早期", "琉璃河燕国墓地", "康侯铭文", "青铜爵", "三足酒器"], "gallery_dir": "07_kanghou_jue",
+    "source_url": "https://m.chnmuseum.cn/zp/zpml/csp/jsq/", "source_name": "中国国家博物馆：中国古代青铜器—爵（康侯爵）", "license": "资料引用，版权归中国国家博物馆"
+  },
+  {
+    "id": "08_longhuwen_zun", "name": "龙虎纹尊", "entity_type": "exhibit", "period": "商代", "category": "青铜酒器·尊", "vessel_type": "zun",
+    "description": "龙虎纹尊为商代青铜酒器，器物体形高大，肩部装饰立体龙首，腹部以虎纹和人物纹为核心构图。其复杂纹饰和铸造工艺反映了商代青铜艺术中动物纹样与礼仪观念的结合。",
+    "dimensions": "高50.5厘米，口径44.9厘米，足径24厘米，重约20千克", "keywords": ["龙虎纹尊", "尊", "龙虎纹", "人物纹", "商代", "青铜酒器"], "gallery_dir": "08_longhuwen_zun",
+    "source_url": "https://www.chnmuseum.cn/zp/zpml/201812/t20181218_59020.shtml", "source_name": "中国国家博物馆：龙虎纹尊", "license": "资料引用，版权归中国国家博物馆"
+  }
+]

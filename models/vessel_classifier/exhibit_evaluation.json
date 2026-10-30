@@ -1,0 +1,787 @@
+{
+  "samples": 32,
+  "reference_images_per_exhibit": 16,
+  "type_accuracy": 0.96875,
+  "exhibit_top1_accuracy": 0.90625,
+  "exhibit_top3_accuracy": 0.96875,
+  "positive_similarity": {
+    "min": 0.0,
+    "mean": 0.849,
+    "max": 0.9769
+  },
+  "negative_similarity": {
+    "min": 0.6758,
+    "mean": 0.7861,
+    "max": 0.9029
+  },
+  "rows": [
+    {
+      "image": "data\\exhibit_gallery\\01_houmuwu_ding\\object (9).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.8655,
+      "expected_exhibit": "01_houmuwu_ding",
+      "predicted_exhibit": "01_houmuwu_ding",
+      "predicted_name": "后母戊鼎",
+      "expected_similarity": 0.8472,
+      "candidates": [
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.8472
+        },
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.7522
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.739
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\01_houmuwu_ding\\object (14).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9235,
+      "expected_exhibit": "01_houmuwu_ding",
+      "predicted_exhibit": "01_houmuwu_ding",
+      "predicted_name": "后母戊鼎",
+      "expected_similarity": 0.8677,
+      "candidates": [
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.8677
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.7752
+        },
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.7689
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\01_houmuwu_ding\\object (4).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9404,
+      "expected_exhibit": "01_houmuwu_ding",
+      "predicted_exhibit": "01_houmuwu_ding",
+      "predicted_name": "后母戊鼎",
+      "expected_similarity": 0.8803,
+      "candidates": [
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.8803
+        },
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.792
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.7624
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\01_houmuwu_ding\\object (13).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9314,
+      "expected_exhibit": "01_houmuwu_ding",
+      "predicted_exhibit": "01_houmuwu_ding",
+      "predicted_name": "后母戊鼎",
+      "expected_similarity": 0.8542,
+      "candidates": [
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.8542
+        },
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.76
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.7531
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\02_zilong_ding\\object (6).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.949,
+      "expected_exhibit": "02_zilong_ding",
+      "predicted_exhibit": "02_zilong_ding",
+      "predicted_name": "子龙鼎",
+      "expected_similarity": 0.8604,
+      "candidates": [
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8604
+        },
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.8497
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7604
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\02_zilong_ding\\object (17).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9833,
+      "expected_exhibit": "02_zilong_ding",
+      "predicted_exhibit": "05_dayu_ding",
+      "predicted_name": "大盂鼎",
+      "expected_similarity": 0.8261,
+      "candidates": [
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.8423
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8261
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7401
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\02_zilong_ding\\object (12).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9468,
+      "expected_exhibit": "02_zilong_ding",
+      "predicted_exhibit": "02_zilong_ding",
+      "predicted_name": "子龙鼎",
+      "expected_similarity": 0.8737,
+      "candidates": [
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8737
+        },
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.8615
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7505
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\02_zilong_ding\\object (2).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9773,
+      "expected_exhibit": "02_zilong_ding",
+      "predicted_exhibit": "05_dayu_ding",
+      "predicted_name": "大盂鼎",
+      "expected_similarity": 0.8365,
+      "candidates": [
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.8986
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8365
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.6758
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\03_siyang_fangzun\\object (18).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.807,
+      "expected_exhibit": "03_siyang_fangzun",
+      "predicted_exhibit": "03_siyang_fangzun",
+      "predicted_name": "四羊方尊",
+      "expected_similarity": 0.9058,
+      "candidates": [
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.9058
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.8163
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.7853
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\03_siyang_fangzun\\object (1).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.8857,
+      "expected_exhibit": "03_siyang_fangzun",
+      "predicted_exhibit": "03_siyang_fangzun",
+      "predicted_name": "四羊方尊",
+      "expected_similarity": 0.8945,
+      "candidates": [
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.8945
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.8106
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.8051
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\03_siyang_fangzun\\object (9).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.7934,
+      "expected_exhibit": "03_siyang_fangzun",
+      "predicted_exhibit": "03_siyang_fangzun",
+      "predicted_name": "四羊方尊",
+      "expected_similarity": 0.8158,
+      "candidates": [
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.8158
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.7596
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.753
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\03_siyang_fangzun\\object (11).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.7646,
+      "expected_exhibit": "03_siyang_fangzun",
+      "predicted_exhibit": "03_siyang_fangzun",
+      "predicted_name": "四羊方尊",
+      "expected_similarity": 0.9359,
+      "candidates": [
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.9359
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.7957
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.7931
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\04_fuhao_xiaozun\\object (19).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.8708,
+      "expected_exhibit": "04_fuhao_xiaozun",
+      "predicted_exhibit": "04_fuhao_xiaozun",
+      "predicted_name": "妇好鸮尊",
+      "expected_similarity": 0.8364,
+      "candidates": [
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.8364
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.7954
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.7603
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\04_fuhao_xiaozun\\object (1).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.9241,
+      "expected_exhibit": "04_fuhao_xiaozun",
+      "predicted_exhibit": "04_fuhao_xiaozun",
+      "predicted_name": "妇好鸮尊",
+      "expected_similarity": 0.8504,
+      "candidates": [
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.8504
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.79
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.766
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\04_fuhao_xiaozun\\object (4).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.5669,
+      "expected_exhibit": "04_fuhao_xiaozun",
+      "predicted_exhibit": "04_fuhao_xiaozun",
+      "predicted_name": "妇好鸮尊",
+      "expected_similarity": 0.8561,
+      "candidates": [
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.8561
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.7674
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.7335
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\04_fuhao_xiaozun\\object (17).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.9016,
+      "expected_exhibit": "04_fuhao_xiaozun",
+      "predicted_exhibit": "04_fuhao_xiaozun",
+      "predicted_name": "妇好鸮尊",
+      "expected_similarity": 0.8451,
+      "candidates": [
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.8451
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.7801
+        },
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.723
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\05_dayu_ding\\object (20).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9248,
+      "expected_exhibit": "05_dayu_ding",
+      "predicted_exhibit": "05_dayu_ding",
+      "predicted_name": "大盂鼎",
+      "expected_similarity": 0.8753,
+      "candidates": [
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.8753
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8563
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7695
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\05_dayu_ding\\object (2).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9858,
+      "expected_exhibit": "05_dayu_ding",
+      "predicted_exhibit": "05_dayu_ding",
+      "predicted_name": "大盂鼎",
+      "expected_similarity": 0.96,
+      "candidates": [
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.96
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8751
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7702
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\05_dayu_ding\\object (3).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9725,
+      "expected_exhibit": "05_dayu_ding",
+      "predicted_exhibit": "05_dayu_ding",
+      "predicted_name": "大盂鼎",
+      "expected_similarity": 0.9136,
+      "candidates": [
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.9136
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.9029
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7558
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\05_dayu_ding\\object (18).webp",
+      "expected_type": "ding",
+      "predicted_type": "ding",
+      "type_confidence": 0.9631,
+      "expected_exhibit": "05_dayu_ding",
+      "predicted_exhibit": "05_dayu_ding",
+      "predicted_name": "大盂鼎",
+      "expected_similarity": 0.8931,
+      "candidates": [
+        {
+          "id": "05_dayu_ding",
+          "name": "大盂鼎",
+          "score": 0.8931
+        },
+        {
+          "id": "02_zilong_ding",
+          "name": "子龙鼎",
+          "score": 0.8853
+        },
+        {
+          "id": "01_houmuwu_ding",
+          "name": "后母戊鼎",
+          "score": 0.7696
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\06_li_gui\\object (18).webp",
+      "expected_type": "gui",
+      "predicted_type": "gui",
+      "type_confidence": 0.9673,
+      "expected_exhibit": "06_li_gui",
+      "predicted_exhibit": "06_li_gui",
+      "predicted_name": "利簋",
+      "expected_similarity": 0.8749,
+      "candidates": [
+        {
+          "id": "06_li_gui",
+          "name": "利簋",
+          "score": 0.8749
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\06_li_gui\\object (1).webp",
+      "expected_type": "gui",
+      "predicted_type": "gui",
+      "type_confidence": 0.4962,
+      "expected_exhibit": "06_li_gui",
+      "predicted_exhibit": "06_li_gui",
+      "predicted_name": "利簋",
+      "expected_similarity": 0.8108,
+      "candidates": [
+        {
+          "id": "06_li_gui",
+          "name": "利簋",
+          "score": 0.8108
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\06_li_gui\\object (10).webp",
+      "expected_type": "gui",
+      "predicted_type": "gui",
+      "type_confidence": 0.9501,
+      "expected_exhibit": "06_li_gui",
+      "predicted_exhibit": "06_li_gui",
+      "predicted_name": "利簋",
+      "expected_similarity": 0.8594,
+      "candidates": [
+        {
+          "id": "06_li_gui",
+          "name": "利簋",
+          "score": 0.8594
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\06_li_gui\\object (4).webp",
+      "expected_type": "gui",
+      "predicted_type": "gui",
+      "type_confidence": 0.7783,
+      "expected_exhibit": "06_li_gui",
+      "predicted_exhibit": "06_li_gui",
+      "predicted_name": "利簋",
+      "expected_similarity": 0.8814,
+      "candidates": [
+        {
+          "id": "06_li_gui",
+          "name": "利簋",
+          "score": 0.8814
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\07_kanghou_jue\\object (17).webp",
+      "expected_type": "jue",
+      "predicted_type": "jue",
+      "type_confidence": 0.9152,
+      "expected_exhibit": "07_kanghou_jue",
+      "predicted_exhibit": "07_kanghou_jue",
+      "predicted_name": "康侯爵",
+      "expected_similarity": 0.8231,
+      "candidates": [
+        {
+          "id": "07_kanghou_jue",
+          "name": "康侯爵",
+          "score": 0.8231
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\07_kanghou_jue\\object (1).webp",
+      "expected_type": "jue",
+      "predicted_type": "jue",
+      "type_confidence": 0.9045,
+      "expected_exhibit": "07_kanghou_jue",
+      "predicted_exhibit": "07_kanghou_jue",
+      "predicted_name": "康侯爵",
+      "expected_similarity": 0.8658,
+      "candidates": [
+        {
+          "id": "07_kanghou_jue",
+          "name": "康侯爵",
+          "score": 0.8658
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\07_kanghou_jue\\object (14).webp",
+      "expected_type": "jue",
+      "predicted_type": "jue",
+      "type_confidence": 0.9106,
+      "expected_exhibit": "07_kanghou_jue",
+      "predicted_exhibit": "07_kanghou_jue",
+      "predicted_name": "康侯爵",
+      "expected_similarity": 0.8426,
+      "candidates": [
+        {
+          "id": "07_kanghou_jue",
+          "name": "康侯爵",
+          "score": 0.8426
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\07_kanghou_jue\\object (2).webp",
+      "expected_type": "jue",
+      "predicted_type": "jue",
+      "type_confidence": 0.79,
+      "expected_exhibit": "07_kanghou_jue",
+      "predicted_exhibit": "07_kanghou_jue",
+      "predicted_name": "康侯爵",
+      "expected_similarity": 0.8855,
+      "candidates": [
+        {
+          "id": "07_kanghou_jue",
+          "name": "康侯爵",
+          "score": 0.8855
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\08_longhuwen_zun\\object (3).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.9565,
+      "expected_exhibit": "08_longhuwen_zun",
+      "predicted_exhibit": "08_longhuwen_zun",
+      "predicted_name": "龙虎纹尊",
+      "expected_similarity": 0.9686,
+      "candidates": [
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.9686
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.7945
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.7494
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\08_longhuwen_zun\\object (5).webp",
+      "expected_type": "zun",
+      "predicted_type": "you",
+      "type_confidence": 0.4454,
+      "expected_exhibit": "08_longhuwen_zun",
+      "predicted_exhibit": null,
+      "predicted_name": null,
+      "expected_similarity": 0.0,
+      "candidates": []
+    },
+    {
+      "image": "data\\exhibit_gallery\\08_longhuwen_zun\\object (14).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.9584,
+      "expected_exhibit": "08_longhuwen_zun",
+      "predicted_exhibit": "08_longhuwen_zun",
+      "predicted_name": "龙虎纹尊",
+      "expected_similarity": 0.9499,
+      "candidates": [
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.9499
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.7977
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.7624
+        }
+      ]
+    },
+    {
+      "image": "data\\exhibit_gallery\\08_longhuwen_zun\\object (10).webp",
+      "expected_type": "zun",
+      "predicted_type": "zun",
+      "type_confidence": 0.5164,
+      "expected_exhibit": "08_longhuwen_zun",
+      "predicted_exhibit": "08_longhuwen_zun",
+      "predicted_name": "龙虎纹尊",
+      "expected_similarity": 0.9769,
+      "candidates": [
+        {
+          "id": "08_longhuwen_zun",
+          "name": "龙虎纹尊",
+          "score": 0.9769
+        },
+        {
+          "id": "03_siyang_fangzun",
+          "name": "四羊方尊",
+          "score": 0.792
+        },
+        {
+          "id": "04_fuhao_xiaozun",
+          "name": "妇好鸮尊",
+          "score": 0.7631
+        }
+      ]
+    }
+  ]
+}

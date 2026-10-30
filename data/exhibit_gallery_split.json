@@ -1,0 +1,214 @@
+{
+  "seed": 42,
+  "test_per_exhibit": 4,
+  "exhibits": {
+    "01_houmuwu_ding": {
+      "reference": [
+        "01_houmuwu_ding/object (18).webp",
+        "01_houmuwu_ding/object (3).webp",
+        "01_houmuwu_ding/object (5).webp",
+        "01_houmuwu_ding/object (8).webp",
+        "01_houmuwu_ding/object (15).webp",
+        "01_houmuwu_ding/object (20).webp",
+        "01_houmuwu_ding/object (7).webp",
+        "01_houmuwu_ding/object (19).webp",
+        "01_houmuwu_ding/object (10).webp",
+        "01_houmuwu_ding/object (2).webp",
+        "01_houmuwu_ding/object (11).webp",
+        "01_houmuwu_ding/object (6).webp",
+        "01_houmuwu_ding/object (16).webp",
+        "01_houmuwu_ding/object (17).webp",
+        "01_houmuwu_ding/object (1).webp",
+        "01_houmuwu_ding/object (12).webp"
+      ],
+      "test": [
+        "01_houmuwu_ding/object (9).webp",
+        "01_houmuwu_ding/object (14).webp",
+        "01_houmuwu_ding/object (4).webp",
+        "01_houmuwu_ding/object (13).webp"
+      ]
+    },
+    "02_zilong_ding": {
+      "reference": [
+        "02_zilong_ding/object (19).webp",
+        "02_zilong_ding/object (5).webp",
+        "02_zilong_ding/object (10).webp",
+        "02_zilong_ding/object (8).webp",
+        "02_zilong_ding/object (14).webp",
+        "02_zilong_ding/object (9).webp",
+        "02_zilong_ding/object (11).webp",
+        "02_zilong_ding/object (1).webp",
+        "02_zilong_ding/object (20).webp",
+        "02_zilong_ding/object (13).webp",
+        "02_zilong_ding/object (18).webp",
+        "02_zilong_ding/object (4).webp",
+        "02_zilong_ding/object (16).webp",
+        "02_zilong_ding/object (3).webp",
+        "02_zilong_ding/object (7).webp",
+        "02_zilong_ding/object (15).webp"
+      ],
+      "test": [
+        "02_zilong_ding/object (6).webp",
+        "02_zilong_ding/object (17).webp",
+        "02_zilong_ding/object (12).webp",
+        "02_zilong_ding/object (2).webp"
+      ]
+    },
+    "03_siyang_fangzun": {
+      "reference": [
+        "03_siyang_fangzun/object (3).webp",
+        "03_siyang_fangzun/object (14).webp",
+        "03_siyang_fangzun/object (19).webp",
+        "03_siyang_fangzun/object (13).webp",
+        "03_siyang_fangzun/object (20).webp",
+        "03_siyang_fangzun/object (4).webp",
+        "03_siyang_fangzun/object (15).webp",
+        "03_siyang_fangzun/object (5).webp",
+        "03_siyang_fangzun/object (6).webp",
+        "03_siyang_fangzun/object (16).webp",
+        "03_siyang_fangzun/object (7).webp",
+        "03_siyang_fangzun/object (10).webp",
+        "03_siyang_fangzun/object (17).webp",
+        "03_siyang_fangzun/object (8).webp",
+        "03_siyang_fangzun/object (2).webp",
+        "03_siyang_fangzun/object (12).webp"
+      ],
+      "test": [
+        "03_siyang_fangzun/object (18).webp",
+        "03_siyang_fangzun/object (1).webp",
+        "03_siyang_fangzun/object (9).webp",
+        "03_siyang_fangzun/object (11).webp"
+      ]
+    },
+    "04_fuhao_xiaozun": {
+      "reference": [
+        "04_fuhao_xiaozun/object (20).webp",
+        "04_fuhao_xiaozun/object (2).webp",
+        "04_fuhao_xiaozun/object (6).webp",
+        "04_fuhao_xiaozun/object (5).webp",
+        "04_fuhao_xiaozun/object (14).webp",
+        "04_fuhao_xiaozun/object (7).webp",
+        "04_fuhao_xiaozun/object (13).webp",
+        "04_fuhao_xiaozun/object (15).webp",
+        "04_fuhao_xiaozun/object (8).webp",
+        "04_fuhao_xiaozun/object (12).webp",
+        "04_fuhao_xiaozun/object (3).webp",
+        "04_fuhao_xiaozun/object (9).webp",
+        "04_fuhao_xiaozun/object (18).webp",
+        "04_fuhao_xiaozun/object (16).webp",
+        "04_fuhao_xiaozun/object (10).webp",
+        "04_fuhao_xiaozun/object (11).webp"
+      ],
+      "test": [
+        "04_fuhao_xiaozun/object (19).webp",
+        "04_fuhao_xiaozun/object (1).webp",
+        "04_fuhao_xiaozun/object (4).webp",
+        "04_fuhao_xiaozun/object (17).webp"
+      ]
+    },
+    "05_dayu_ding": {
+      "reference": [
+        "05_dayu_ding/object (11).webp",
+        "05_dayu_ding/object (4).webp",
+        "05_dayu_ding/object (10).webp",
+        "05_dayu_ding/object (1).webp",
+        "05_dayu_ding/object (5).webp",
+        "05_dayu_ding/object (12).webp",
+        "05_dayu_ding/object (17).webp",
+        "05_dayu_ding/object (19).webp",
+        "05_dayu_ding/object (13).webp",
+        "05_dayu_ding/object (15).webp",
+        "05_dayu_ding/object (6).webp",
+        "05_dayu_ding/object (8).webp",
+        "05_dayu_ding/object (16).webp",
+        "05_dayu_ding/object (7).webp",
+        "05_dayu_ding/object (14).webp",
+        "05_dayu_ding/object (9).webp"
+      ],
+      "test": [
+        "05_dayu_ding/object (20).webp",
+        "05_dayu_ding/object (2).webp",
+        "05_dayu_ding/object (3).webp",
+        "05_dayu_ding/object (18).webp"
+      ]
+    },
+    "06_li_gui": {
+      "reference": [
+        "06_li_gui/object (17).webp",
+        "06_li_gui/object (20).webp",
+        "06_li_gui/object (14).webp",
+        "06_li_gui/object (3).webp",
+        "06_li_gui/object (12).webp",
+        "06_li_gui/object (2).webp",
+        "06_li_gui/object (13).webp",
+        "06_li_gui/object (11).webp",
+        "06_li_gui/object (16).webp",
+        "06_li_gui/object (7).webp",
+        "06_li_gui/object (6).webp",
+        "06_li_gui/object (5).webp",
+        "06_li_gui/object (9).webp",
+        "06_li_gui/object (19).webp",
+        "06_li_gui/object (8).webp",
+        "06_li_gui/object (15).webp"
+      ],
+      "test": [
+        "06_li_gui/object (18).webp",
+        "06_li_gui/object (1).webp",
+        "06_li_gui/object (10).webp",
+        "06_li_gui/object (4).webp"
+      ]
+    },
+    "07_kanghou_jue": {
+      "reference": [
+        "07_kanghou_jue/object (16).webp",
+        "07_kanghou_jue/object (9).webp",
+        "07_kanghou_jue/object (12).webp",
+        "07_kanghou_jue/object (18).webp",
+        "07_kanghou_jue/object (4).webp",
+        "07_kanghou_jue/object (15).webp",
+        "07_kanghou_jue/object (20).webp",
+        "07_kanghou_jue/object (19).webp",
+        "07_kanghou_jue/object (8).webp",
+        "07_kanghou_jue/object (7).webp",
+        "07_kanghou_jue/object (3).webp",
+        "07_kanghou_jue/object (10).webp",
+        "07_kanghou_jue/object (11).webp",
+        "07_kanghou_jue/object (5).webp",
+        "07_kanghou_jue/object (6).webp",
+        "07_kanghou_jue/object (13).webp"
+      ],
+      "test": [
+        "07_kanghou_jue/object (17).webp",
+        "07_kanghou_jue/object (1).webp",
+        "07_kanghou_jue/object (14).webp",
+        "07_kanghou_jue/object (2).webp"
+      ]
+    },
+    "08_longhuwen_zun": {
+      "reference": [
+        "08_longhuwen_zun/object (2).webp",
+        "08_longhuwen_zun/object (6).webp",
+        "08_longhuwen_zun/object (18).webp",
+        "08_longhuwen_zun/object (20).webp",
+        "08_longhuwen_zun/object (8).webp",
+        "08_longhuwen_zun/object (4).webp",
+        "08_longhuwen_zun/object (1).webp",
+        "08_longhuwen_zun/object (16).webp",
+        "08_longhuwen_zun/object (11).webp",
+        "08_longhuwen_zun/object (15).webp",
+        "08_longhuwen_zun/object (13).webp",
+        "08_longhuwen_zun/object (9).webp",
+        "08_longhuwen_zun/object (19).webp",
+        "08_longhuwen_zun/object (17).webp",
+        "08_longhuwen_zun/object (7).webp",
+        "08_longhuwen_zun/object (12).webp"
+      ],
+      "test": [
+        "08_longhuwen_zun/object (3).webp",
+        "08_longhuwen_zun/object (5).webp",
+        "08_longhuwen_zun/object (14).webp",
+        "08_longhuwen_zun/object (10).webp"
+      ]
+    }
+  }
+}

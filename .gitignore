@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment & secrets
+.env
+
+# Model weights (download separately, see README)
+models/vessel_classifier/best.pt
+.models/
+
+# Hugging Face / model cache
+.model_cache/
+
+# Dataset images (not included in repo)
+data/dataset/
+data/exhibit_gallery/
+data/raw_dataset/
+
+# Vector database (regenerated at runtime)
+data/chroma/
+
+# Obsolete / scratch
+data/_obsolete_*/
+data/_*.zip
+data/_*.tar
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (not used in this project)
+node_modules/

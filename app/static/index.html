@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>青铜器智能导览</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="青铜器智能导览首页"><span class="brand-mark">鼎</span><span>青铜器智能导览</span></a>
+    <div class="top-status"><span class="status-dot"></span><span id="system-status">正在检查服务</span></div>
+  </header>
+  <main class="layout">
+    <section class="viewer-panel" aria-label="展品识别">
+      <div class="section-heading"><div><p class="eyebrow">EXHIBIT RECOGNITION</p><h1>识别一件青铜器</h1></div><span class="catalog-count" id="catalog-count">藏品 0</span></div>
+      <div class="mode-tabs" role="tablist" aria-label="输入模式">
+        <button class="mode-tab active" data-mode="upload" role="tab" aria-selected="true"><span class="tab-icon">↑</span>上传图片</button>
+        <button class="mode-tab" data-mode="camera" role="tab" aria-selected="false"><span class="tab-icon">◉</span>摄像头</button>
+      </div>
+      <div class="input-stage" id="input-stage">
+        <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="选择或拖入展品图片">
+          <div class="upload-symbol">＋</div><strong>拖入展品图片</strong><span>或从设备中选择</span>
+          <button class="button button-secondary" id="choose-image" type="button">选择图片</button>
+          <input id="file-input" type="file" accept="image/*" hidden>
+        </div>
+        <div class="camera-view hidden" id="camera-view"><video id="camera-video" playsinline autoplay></video><canvas id="camera-canvas" hidden></canvas><div class="camera-hint">将展品放在画面中央</div><button class="button button-primary capture-button" id="capture-button" type="button" disabled>拍摄并识别</button></div>
+        <div class="preview hidden" id="preview"><img id="preview-image" alt="待识别展品"><button class="icon-button clear-preview" id="clear-preview" type="button" title="移除图片" aria-label="移除图片">×</button></div>
+      </div>
+      <div class="result-panel hidden" id="result-panel">
+        <div class="result-title"><span class="result-icon">✓</span><div><span class="eyebrow">识别结果</span><h2 id="result-name">-</h2></div></div>
+        <div class="result-meta"><span id="result-period">-</span><span id="type-score">器型置信度 -</span><span id="result-score">展品相似度 -</span></div>
+        <p class="result-description" id="result-description"></p>
+        <p class="candidate-heading" id="type-candidate-heading">器型候选</p>
+        <div class="candidate-list" id="type-candidate-list"></div>
+        <p class="candidate-heading" id="exhibit-candidate-heading">同器型展品候选</p>
+        <div class="candidate-list" id="candidate-list"></div>
+        <button class="button button-primary full-button" id="guide-button" type="button">生成展品讲解</button>
+      </div>
+      <p class="privacy-note">图片仅在本机进行图像匹配，不会随问答上传到大模型。</p>
+    </section>
+    <section class="chat-panel" aria-label="展品问答">
+      <div class="chat-heading"><div><p class="eyebrow">COLLECTION GUIDE</p><h2>展品问答</h2></div><button class="icon-button" id="clear-chat" type="button" title="清空对话" aria-label="清空对话">↻</button></div>
+      <div class="chat-context" id="chat-context"><span class="context-dot"></span><span>先识别一件展品，或直接提问</span></div>
+      <div class="messages" id="messages"><div class="welcome-message"><div class="assistant-mark">鼎</div><div><strong>你好，我是青铜器导览助手。</strong><p>识别展品后，我可以介绍它的年代、器型和纹饰。回答会附上资料来源。</p></div></div></div>
+      <div class="suggestions" id="suggestions"><button type="button">这件展品有什么特点？</button><button type="button">它的纹饰有什么寓意？</button><button type="button">它在当时有什么用途？</button></div>
+      <form class="composer" id="chat-form"><textarea id="question-input" rows="1" placeholder="询问当前展品…" aria-label="输入问题"></textarea><button class="send-button" id="send-button" type="submit" title="发送" aria-label="发送">↑</button></form>
+      <div class="chat-footnote">回答基于本地资料检索生成，请以来源页面为准。</div>
+    </section>
+  </main>
+  <script src="/static/app.js?v=20261026-2" defer></script>
+</body>
+</html>
